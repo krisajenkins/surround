@@ -1,0 +1,6 @@
+- [ ] Change quotes.
+- [ ] Widen/narrow brackets cs()
+- [ ] Creating surrounds.
+- [ ] Surrounding a block.
+- [ ] Deleting.
+- [ ] HTML tags.
