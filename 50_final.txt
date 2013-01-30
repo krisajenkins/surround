@@ -10,23 +10,3 @@ Find it at:
 Remember:
 
 	 cs'"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// vim: nospell
